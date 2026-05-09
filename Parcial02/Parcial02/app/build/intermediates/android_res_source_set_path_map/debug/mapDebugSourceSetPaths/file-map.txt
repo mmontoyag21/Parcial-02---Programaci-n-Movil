@@ -1,0 +1,45 @@
+com.tareas.parcial02.app-activity-compose-1.13.0-0 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\033804ac36c26e60180bd337875094a3\workspace\transformed\activity-compose-1.13.0\res
+com.tareas.parcial02.app-emoji2-1.4.0-1 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\03580ae45805e576bbd344681fa40923\workspace\transformed\emoji2-1.4.0\res
+com.tareas.parcial02.app-core-viewtree-1.0.0-2 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\098faa6fdb5b270df121b4abe09f6c34\workspace\transformed\core-viewtree-1.0.0\res
+com.tareas.parcial02.app-navigation-compose-2.8.3-3 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\0a677bb96ae40fd31540f33e0593d082\workspace\transformed\navigation-compose-2.8.3\res
+com.tareas.parcial02.app-core-ktx-1.18.0-4 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\0ae0b0f85579cabf4bb7035a8cb44031\workspace\transformed\core-ktx-1.18.0\res
+com.tareas.parcial02.app-core-runtime-2.2.0-5 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\135b0847b9307b3648295ac88e916417\workspace\transformed\core-runtime-2.2.0\res
+com.tareas.parcial02.app-ui-release-6 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\17776ab68f34f5fdba1e9cc7dbc43af0\workspace\transformed\ui-release\res
+com.tareas.parcial02.app-material3-release-7 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\1af2011780606576540f00ab81cce034\workspace\transformed\material3-release\res
+com.tareas.parcial02.app-navigation-runtime-ktx-2.8.3-8 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\1ff107f0db608a8d51c19d87adbfaab4\workspace\transformed\navigation-runtime-ktx-2.8.3\res
+com.tareas.parcial02.app-lifecycle-livedata-core-2.10.0-9 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\2b0ae470bd6d86e6e24883643cad041d\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.tareas.parcial02.app-material-icons-extended-release-10 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\2eea7e12ffced5759ad1a34e6fef3658\workspace\transformed\material-icons-extended-release\res
+com.tareas.parcial02.app-lifecycle-viewmodel-11 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\317c9ca07452efbb959f6fe25a08a58e\workspace\transformed\lifecycle-viewmodel\res
+com.tareas.parcial02.app-material-ripple-release-12 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\3522bfd506f1375495982faa90361db6\workspace\transformed\material-ripple-release\res
+com.tareas.parcial02.app-annotation-experimental-1.4.1-13 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\39c4257186a3290536d7643f82dfab76\workspace\transformed\annotation-experimental-1.4.1\res
+com.tareas.parcial02.app-activity-ktx-1.13.0-14 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\41a86152363907926c4c519c1306b2ef\workspace\transformed\activity-ktx-1.13.0\res
+com.tareas.parcial02.app-navigation-runtime-2.8.3-15 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\45df4945db5b250e69d70da09bbd0306\workspace\transformed\navigation-runtime-2.8.3\res
+com.tareas.parcial02.app-ui-test-manifest-1.9.2-16 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\515a8d2898ef4ee6969e92b759cdfc3a\workspace\transformed\ui-test-manifest-1.9.2\res
+com.tareas.parcial02.app-lifecycle-runtime-17 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\51b489213abe0e0a6723582719b943e1\workspace\transformed\lifecycle-runtime\res
+com.tareas.parcial02.app-navigation-common-ktx-2.8.3-18 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\53df54de49de8fb3a5d199504f50abf2\workspace\transformed\navigation-common-ktx-2.8.3\res
+com.tareas.parcial02.app-coil-base-2.7.0-19 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\61af5e918d90d1ca3b6b08254b95138c\workspace\transformed\coil-base-2.7.0\res
+com.tareas.parcial02.app-activity-1.13.0-20 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\6aafd0c3b551bf2125ca3986146556dc\workspace\transformed\activity-1.13.0\res
+com.tareas.parcial02.app-foundation-release-21 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\712eb075e24e39b8b2c3a511738433d2\workspace\transformed\foundation-release\res
+com.tareas.parcial02.app-navigationevent-22 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\7349a54fcaa6a49d155d02d7f2b7c1e9\workspace\transformed\navigationevent\res
+com.tareas.parcial02.app-lifecycle-process-2.10.0-23 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\78639d15be09e6fd74a0a390c80bc9fc\workspace\transformed\lifecycle-process-2.10.0\res
+com.tareas.parcial02.app-startup-runtime-1.1.1-24 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\7c0ee1f0a7f3f15e820c26c29720df4d\workspace\transformed\startup-runtime-1.1.1\res
+com.tareas.parcial02.app-profileinstaller-1.4.0-25 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\86cda76f88697314486c1a8b322c0794\workspace\transformed\profileinstaller-1.4.0\res
+com.tareas.parcial02.app-savedstate-26 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\8baf97d5ca78bbd748707ae0ce003bfc\workspace\transformed\savedstate\res
+com.tareas.parcial02.app-material-release-27 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\9076984b76f9b8f5871f4ba54ffeebd1\workspace\transformed\material-release\res
+com.tareas.parcial02.app-appcompat-resources-1.6.1-28 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\9b1a082f285d1bdcc173809042ecb8c6\workspace\transformed\appcompat-resources-1.6.1\res
+com.tareas.parcial02.app-material-icons-core-release-29 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\9ef65f71517b366efcbd8c0bcb1c562d\workspace\transformed\material-icons-core-release\res
+com.tareas.parcial02.app-tracing-1.2.0-30 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\a2df76c84089e98c6dcf54c26902b7fa\workspace\transformed\tracing-1.2.0\res
+com.tareas.parcial02.app-savedstate-ktx-1.4.0-31 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\ad18290f19e19ed11501a69a1ed46e53\workspace\transformed\savedstate-ktx-1.4.0\res
+com.tareas.parcial02.app-navigation-common-2.8.3-32 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\b510b6c8e6cd130d341638cdedad18f5\workspace\transformed\navigation-common-2.8.3\res
+com.tareas.parcial02.app-lifecycle-viewmodel-ktx-2.10.0-33 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\b7391ea5cee4bac2d6a631a0bb73a9b2\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.tareas.parcial02.app-graphics-path-1.0.1-34 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\bd1a032deb93dd0f727bc425a39f39f6\workspace\transformed\graphics-path-1.0.1\res
+com.tareas.parcial02.app-ui-graphics-release-35 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\d6f6813f80e025812926d3a1ce98bb36\workspace\transformed\ui-graphics-release\res
+com.tareas.parcial02.app-core-1.18.0-36 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\ed521ede08f931f69fc143c345b1f557\workspace\transformed\core-1.18.0\res
+com.tareas.parcial02.app-customview-poolingcontainer-1.0.0-37 C:\Users\ASUS\.gradle\caches\9.2.1\transforms\fa8ea94808e38686eb23f9d1f01d0894\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.tareas.parcial02.app-pngs-38 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\build\generated\res\pngs\debug
+com.tareas.parcial02.app-updated_navigation_xml-39 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\build\generated\updated_navigation_xml\debug
+com.tareas.parcial02.app-packageDebugResources-40 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.tareas.parcial02.app-packageDebugResources-41 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.tareas.parcial02.app-debug-42 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.tareas.parcial02.app-debug-43 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\src\debug\res
+com.tareas.parcial02.app-main-44 C:\Users\ASUS\Desktop\7 semestre\Programacion movil\Parcial02\app\src\main\res
